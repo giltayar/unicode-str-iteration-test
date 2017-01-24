@@ -1,10 +1,11 @@
 # unicode-str-iteration-test
 Code from medium article about iterating over unicode characters
 
-## Building
-Run `npm run build`
+## Usage
+1. `npm install`
+2. Build the ES5 code, using `npm run build`
 
-## Running
+## Running the code
 Either run the ES6 version using:
 ```sh
 node unicode.js
